@@ -81,7 +81,7 @@ local function Start(Key)
 	local Window = NEVERLOSE:AddWindow("NEVERLOSE", "TEXT HERE")
 end
 
-local KeySystem = NEVERLOSE:KeySystem("Key System", "https://discord.gg/bedol-hub", function(key)
+local KeySystem = NEVERLOSE:KeySystem("Key System", "https://discord.gg/WHpy6C39X4", function(key)
 	if key=='1234' then
 		return true
 	end
