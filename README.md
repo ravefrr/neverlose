@@ -1,5 +1,4 @@
 # Neverlose Library
-### This doc is only for the neverlose ui
 
 ## Booting the Library
 ```lua
